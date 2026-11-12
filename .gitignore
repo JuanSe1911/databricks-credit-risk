@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle data (license + size)
+data/
+*.csv
+*.zip
